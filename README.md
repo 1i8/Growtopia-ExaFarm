@@ -6,7 +6,6 @@ Growtopia autofarming bot specialized in BFG farming that can also multibox (ope
 Currently supports Windows.
 
 ## Download
-[Release](https://github.com/iProB1/Growtopia-ExaFarm) 
 
 ## How to use
 
