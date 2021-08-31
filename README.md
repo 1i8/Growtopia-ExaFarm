@@ -1,5 +1,5 @@
 # EXAFarm
-[![Windows](https://github.com/danielkrupinski/GOESP/workflows/Windows/badge.svg)](https://github.com/NotAma666/EXAFarm)
+[![Windows](https://github.com/danielkrupinski/GOESP/workflows/Windows/badge.svg)](https://github.com/iProB1/Growtopia-ExaFarm)
 
 Growtopia autofarming bot specialized in BFG farming that can also multibox (open multiple instances of the game at the same time). 
 
